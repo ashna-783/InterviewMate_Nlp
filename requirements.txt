@@ -1,0 +1,4 @@
+pandas
+scikit-learn
+# Optional, only if you add the Sentence-BERT comparison:
+# sentence-transformers
